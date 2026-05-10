@@ -27,14 +27,13 @@ Desenvolvedor full stack com foco em interfaces bem resolvidas, integrações, a
 `Go` `PostgreSQL` `Integração com APIs` `REST API` `Banco de dados`
 `CMS` `LMS` `CRM` `Automações` `Ferramentas internas` `Boas práticas` `Git` `GitHub`
 
----
-
-## 📊 GitHub Stats
-
-![João Pedro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pogbas21&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pogbas21&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
+
+## 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pogbas21)
+[![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://joao-portfolio-jade.vercel.app)
 
 ## 📫 Contato
 

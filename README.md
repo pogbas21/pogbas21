@@ -1,10 +1,14 @@
 # Olá, eu sou João Pedro 👋
 
-### Desenvolvedor Full Stack Júnior
+### 💻 Estudante de ADS | Desenvolvedor Full Stack
 
 🟢 Disponível para oportunidades full stack
 
-Desenvolvedor full stack com foco em interfaces bem resolvidas, integrações, automações e produtos digitais que precisam funcionar de ponta a ponta.
+Gosto de entender como as coisas funcionam por baixo dos panos — desde o fluxo de dados até a interface que o usuário vai ver. Tenho me aprofundado em construir aplicações completas, integrações entre sistemas e automações que resolvem problemas reais.
+
+- 🎓 **Formação:** Cursando ADS na Faculdade Realiza
+- - 🔍 **Curiosidade:** Gosto de debugar, entender o porquê dos erros e aprender com eles
+  - - ⚡ **Mentalidade:** Um problema de cada vez, uma solução bem feita
 
 ---
 
